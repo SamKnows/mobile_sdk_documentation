@@ -1,0 +1,12 @@
+import("./Helper")
+
+desc "Generate the common documentation"
+lane :export do
+  output_dir = "../build/docs/"
+  generate_common_docs(output_dir)
+end
+
+def generate_common_docs(output_dir)
+  absolute_path = absolute_path(output_dir)
+  sh("bundle exec middleman build --build-dir=\"#{absolute_path}\"")
+end
