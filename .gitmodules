@@ -1,0 +1,3 @@
+[submodule "mobile_sdk_documentation_published"]
+	path = mobile_sdk_documentation_published
+	url = git@github.com:SamKnows/mobile_sdk_documentation_published.git
