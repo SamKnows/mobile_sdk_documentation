@@ -1,4 +1,6 @@
-import("./Helper")
+# Mobile SDK documentation build scripts
+
+import("./Helper.rb")
 
 desc "Generate the common documentation"
 lane :export do |options|
