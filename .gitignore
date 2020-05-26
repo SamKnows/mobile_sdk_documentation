@@ -24,4 +24,4 @@ doc/
 .idea/
 build/
 /fastlane/report.xml
-
+vendor/bundle/
