@@ -1,11 +1,12 @@
 # Introduction
 
-Welcome to the SamKnows SDK Reference Guide
+Welcome to the SamKnows Mobile SDK Reference Guide
 
 The SamKnows Mobile SDK and its Kit frameworks allow you to leverage the SamKnows suite of tests within your own app with minimal setup. You can select from any of the currently supported tests. Along with the test-specific metrics, we also collect various environmental and connection metrics and submit this to the SamKnows One platform, along with your panel key, ensuring availability of your data. It is also possible to specify another URL to submit the metrics to and this can be set via the SKDMetrics object. Please see the API documentation for specifics on this.
 
 # Requirements
 
+bi
 ## Android
 The Android SDK supports Lollipop (API level 21) through to Android 10 (API level 29) and the following CPU architectures only:
 
