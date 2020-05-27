@@ -6,7 +6,6 @@ The SamKnows Mobile SDK and its Kit frameworks allow you to leverage the SamKnow
 
 # Requirements
 
-bi
 ## Android
 The Android SDK supports Lollipop (API level 21) through to Android 10 (API level 29) and the following CPU architectures only:
 
